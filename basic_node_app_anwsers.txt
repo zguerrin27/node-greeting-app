@@ -1,0 +1,5 @@
+1. A node module is a resuable bit of code that accomplishes a task for us....They are meant to help code stay organized, and need to be included into the main file.
+
+2. module.exports refers to the specific object type..and the exports method on  the module...exports isnt as specific and refers to the module.exports
+
+3. because it helps with naming...and keeps us from overriding the module.exports with an assignment operator.
